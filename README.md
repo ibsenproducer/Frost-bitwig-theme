@@ -13,7 +13,7 @@ Frost Theme for Bitwig To be used with [Theme Editor by Berikai](https://github.
 
 ## Screenshots
 
-![Screenshot]([https://i.imgur.com/VFly7HF.png](https://github.com/ibsenproducer/Frost-bitwig-theme/blob/main/frost.png?raw=true))
+![Screenshot](https://github.com/ibsenproducer/Frost-bitwig-theme/blob/main/frost.png?raw=true)
 
 ![Screenshot](https://i.imgur.com/VFly7HF.png)
 
